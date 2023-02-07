@@ -1,0 +1,17 @@
+1. React Query is a 3rd party library for state management
+> for any async data from REST APIs or fetch etc.
+2. Custom hook named useQuery()
+
+3. Create new react project
+> npx create-react-app react-query
+4. Install the React query package on local project
+> npm i react-query
+5. Install React Query Dev Tools
+> provide dev console in the browser that shows what's happening
+> behind the scenes with our queries
+> npm i react-query-devtools
+> now included in react-query 
+
+6. Query variables
+7. in const [name, setName] = useState();
+> 2nd return setName() we can pass in a value or a function
