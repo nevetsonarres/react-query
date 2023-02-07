@@ -15,3 +15,7 @@
 6. Query variables
 7. in const [name, setName] = useState();
 > 2nd return setName() we can pass in a value or a function
+
+8. React Query is a library for fetching and managing data in React applications, while Axios is a library for making HTTP requests.
+You sent
+9. React Query can help you manage and update data in real-time
